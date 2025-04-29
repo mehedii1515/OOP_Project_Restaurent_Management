@@ -98,7 +98,7 @@ Through this project, students will learn:
 
 ## 👨‍💻 Author
 
-Developed by **Md. Mehedi Hasan**  
+Developed by **Md Mehedi Hasan**  
 As part of an Object-Oriented Programming (OOP) course project.
 
 ---
