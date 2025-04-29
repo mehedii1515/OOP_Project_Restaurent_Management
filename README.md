@@ -49,12 +49,12 @@
    ```bash
    git clone https://github.com/your-username/mamar-restaurent.git
    cd mamar-restaurent
-"""
+
 2. Run the program:
    ```bash
    python main.py
-   ```
-"""
+   
+
 3. Follow the on-screen options to operate as an Admin or Customer.
 
 ---
