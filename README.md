@@ -1,4 +1,3 @@
-"""
 # 🍽️ Mamar Restaurement – Terminal-Based OOP Restaurant Management System
 
 **Mamar Restaurement** is a Python-based restaurant management system developed using Object-Oriented Programming (OOP) concepts. It simulates a small restaurant where Admins can manage menus and employees, while Customers can place and pay for orders—all via a command-line interface.
